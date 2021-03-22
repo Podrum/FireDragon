@@ -21,4 +21,4 @@ FireDragon is a MCBE Server Proxy
 - Do we have a Documentation?
 > Not yet.
 
-**Not joineable yet**
+**Not joinable yet**
